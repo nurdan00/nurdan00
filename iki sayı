@@ -1,0 +1,8 @@
+sayi1=5
+sayi2=7
+if sayi1<sayi2:
+    print("sayi1 sayi2den küçüktür")
+elif sayi1>sayi2:
+    print("sayi1 sayi2den büyüktür")
+else:
+    print("sayi1 sayi2ye eşittir")    
